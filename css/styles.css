@@ -11,7 +11,7 @@
 body{
   font-size: 1.125rem;
   line-height: 1.6;
-  font-family: PT Serif 400;
+  font-style: PT Serif 400;
   color: #414141;
 }
 header{
@@ -19,7 +19,7 @@ header{
   line-height: 0.8;
 }
 h1{
-  font-family: Cinzel 900;
+  font-style: Cinzel 900;
   font-size: 6rem;
   text-transform: uppercase;
   font-weight: bolder;
@@ -28,6 +28,7 @@ h1{
   color: #7D7D7D;
   font-size: 2.25rem;
   line-height: 1.0;
+  text-align: center;
 }
 .lead{
   font-size: 1.3125rem;
